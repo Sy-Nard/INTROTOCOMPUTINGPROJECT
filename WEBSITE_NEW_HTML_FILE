@@ -34,6 +34,7 @@
       <option>IT Learning & Education</option>
       <option>Technology News & Information</option>
       <option>Programming & Development</option>
+      <option>Cyber Security</option>
     </select>
 
     
@@ -108,14 +109,14 @@
       // PAG KA TAPOS NYO PALITAN TANGALIN NYO YUNG // SA UNAHAN
   
 
-      // 2 - CYBERSECURITY
+      // 2 - CYBER SECURITY
 
 
-    {name:"Kaspersky", cat:"Cybersecurity", reg:["Asia","Europe"], url:"https://www.kaspersky.com/⁠", visit:"00:10:00", bounce:28.4, growth:1.2},
-    {name:"Norton",    cat:"Cybersecurity", reg:["Asia","Americas"],        url:"https://www.norton.com/⁠",  visit:"00:18:50", bounce:23.6, growth:3.8},
-    {name:"Cloudflare",         cat:"Cybersecurity",     reg:["Asia","Europe","Americas"],            url:"https://www.cloudflare.com/⁠",           visit:"00:12:00", bounce:38.2, growth:9.7},
-     {name:"OWASP",         cat:"Cybersecurity",     reg:["Americas","Europe"],            url:"https://owasp.org/⁠",           visit:"00:12:00", bounce:38.2, growth:9.7},
-     {name:"CISA",         cat:"Cybersecurity",     reg:["Americas"],            url:"https://www.cisa.gov/⁠",           visit:"00:12:00", bounce:38.2, growth:9.7},  
+    {name:"Kaspersky", cat:"Cyber Security", reg:["Asia","Europe"], url:"https://www.kaspersky.com/⁠", visit:"00:10:00", bounce:28.4, growth:1.2},
+    {name:"Norton",    cat:"Cyber Security", reg:["Asia","Americas"],        url:"https://www.norton.com/⁠",  visit:"00:18:50", bounce:23.6, growth:3.8},
+    {name:"Cloudflare",         cat:"Cyber Security",     reg:["Asia","Europe","Americas"],            url:"https://www.cloudflare.com/⁠",           visit:"00:12:00", bounce:38.2, growth:9.7},
+     {name:"OWASP",         cat:"Cyber Security",     reg:["Americas","Europe"],            url:"https://owasp.org/⁠",           visit:"00:12:00", bounce:38.2, growth:9.7},
+     {name:"CISA",         cat:"Cyber Security",     reg:["Americas"],            url:"https://www.cisa.gov/⁠",           visit:"00:12:00", bounce:38.2, growth:9.7},  
       
       //3 - IT LEARNING & EDUCATION
       
